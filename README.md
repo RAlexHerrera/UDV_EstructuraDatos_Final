@@ -27,6 +27,8 @@ El sistema solicitara el ingreso de numeros
     Se imprimira en consola el arbol AVL
 Si existe un arbol AVL o valores ingresados anteriormente podemos buscar o eliminar
     Se ingresa Buscar seguido del numero o eliminar seguido del numero para que esto sea funcional
+Ejemplo de salida:
+![Captura de pantalla 2025-05-16 193422](https://github.com/user-attachments/assets/7eb24b84-5a52-431c-9b2a-af8c298451a5)
 
 Requisitos mínimos:
 Java JDK 11+
