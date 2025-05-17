@@ -5,6 +5,12 @@
 
 ---
 
+## Link a Video
+https://youtu.be/ap5l-Eg8hss
+
+
+---
+
 ## Descripción del Problema
 
 Desarrollar un programa en Java que permita construir árboles AVL dinámicos desde consola, cumpliendo con los siguientes requerimientos:
