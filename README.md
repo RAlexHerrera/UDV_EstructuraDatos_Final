@@ -30,6 +30,8 @@ El sistema permite al usuario ingresar números desde la consola. El programa re
 - Inserta el número respetando la propiedad de orden de los árboles BST.
 - Aplica las rotaciones necesarias para mantener el balanceo AVL.
 - Imprime en consola una representación del árbol tras cada inserción, permitiendo observar en tiempo real su construcción y balanceo.
+
+
 ![Captura de pantalla 2025-05-16 193422](https://github.com/user-attachments/assets/7eb24b84-5a52-431c-9b2a-af8c298451a5)
 ---
 
